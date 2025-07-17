@@ -128,7 +128,7 @@ hi! link CursorLine     dkoBgAlt
 
 " want guifg=#666666 for borders, but not on text
 " waiting for https://github.com/neovim/neovim/issues/15551
-hi! Pmenu               guibg=bg
+hi! Pmenu               guibg=#333336
 hi! PmenuSel            guifg=fg guibg=#40485a
 " popup menu scrollbar
 hi! link PmenuSbar      PmenuSel
@@ -140,8 +140,8 @@ hi! link WildMenu       PmenuThumb
 " Neovim float
 " ============================================================================
 
-hi! FloatBorder guibg=bg guifg=#666666
-hi! NormalFloat guibg=bg guifg=fg
+hi! FloatBorder guibg=#333336 guifg=#777777
+hi! NormalFloat guibg=#333336 guifg=fg
 
 " ============================================================================
 " Status and tab line
