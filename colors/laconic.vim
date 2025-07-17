@@ -111,7 +111,7 @@ hi! VertSplit           guibg=#262631 guifg=#40485a ctermbg=237 ctermfg=237
 " As of neovim 0.10 this replaces VertSplit
 hi! link WinSeparator   VertSplit
 
-hi! LineNr              guibg=#222226 guifg=#40485a ctermbg=235 ctermfg=238
+hi! LineNr              guibg=#222226 guifg=#5b5b66 ctermbg=235 ctermfg=238
 hi! CursorLineNr        guibg=#303033 guifg=#a0a0aa ctermbg=238 ctermfg=245
 hi! link FoldColumn     LineNr
 hi! link SignColumn     LineNr
