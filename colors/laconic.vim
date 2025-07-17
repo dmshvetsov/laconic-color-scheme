@@ -188,7 +188,7 @@ hi! link DiagnosticWarn   dkoTextWarn
 " Don't make whole line of error red
 " We have underline
 hi! DiagnosticError                  guifg=NONE
-hi! DiagnosticUnderlineError         guifg=#ee6666 gui=underline ctermbg=NONE ctermfg=160
+hi! DiagnosticUnderlineError         guifg=NONE gui=underline ctermbg=NONE ctermfg=160
 hi! DiagnosticSignError              guifg=#ee6666
 
 hi! DiagnosticHint        guibg=NONE guifg=NONE
