@@ -1,0 +1,46 @@
+# black
+palette = 0=#202022
+
+# bright variants
+# red, or #de7766
+palette = 9=#fec1b9
+# green
+palette = 10=#b3f6c0
+# yellow
+palette = 11=#FFE6B3
+# blue
+palette = 12=#88aabb
+# magenta
+palette = 13=#dd99ff
+# cyan
+palette = 14=#6f788a
+
+# grey
+palette = 7=#b2b2b2
+# light black / dark gey
+palette = 8=#6f788a
+
+# dark variants
+# red
+palette = 1=#cb5a5a
+# green
+palette = 2=#88aabb
+# yellow
+palette = 3=#7f6031
+# blue
+palette = 4=#88aabb
+# magenta
+palette = 5=#c292c2
+# cyan
+palette = 6=#6f788a
+
+# white
+palette = 15=#dddddd
+
+background =#202022
+foreground =#dddddd
+cursor-color =b0b0b0
+cursor-text =#484848
+selection-background =#333336
+selection-foreground =#d9dae2
+
