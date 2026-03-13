@@ -2,7 +2,7 @@
 palette = 0=#202022
 
 # bright variants
-# red, or #de7766
+# red
 palette = 9=#fec1b9
 # green
 palette = 10=#b3f6c0
@@ -18,15 +18,15 @@ palette = 14=#6f788a
 # grey
 palette = 7=#b2b2b2
 # light black / dark gey
-palette = 8=#6f788a
+palette = 8=#303033
 
 # dark variants
-# red
-palette = 1=#cb5a5a
+# red or #cb5a5a
+palette = 1=#de7766
 # green
 palette = 2=#88aabb
 # yellow
-palette = 3=#7f6031
+palette = 3=#ddaa66
 # blue
 palette = 4=#88aabb
 # magenta
